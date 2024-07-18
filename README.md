@@ -1,3 +1,2 @@
-My personal portfolio website
-
-Link to site: **averyleedev.com**
+## My personal portfolio website:
+    averyleedev.com
